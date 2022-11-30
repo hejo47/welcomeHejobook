@@ -1,0 +1,9 @@
+@charset "utf-8";
+.header_con {
+  width: 100vw;
+  height: 80px;
+  background: floralwhite;
+  border: 1px solid #000;
+  position: fixed;
+  z-index: 99;
+}
