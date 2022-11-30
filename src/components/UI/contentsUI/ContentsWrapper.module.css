@@ -1,7 +1,7 @@
 @charset "utf-8";
-.desc {
+.content {
   width: 100%;
   height: max-content;
-  background-color: indianred;
   padding: 20px;
+  background-color: whitesmoke;
 }
